@@ -1,3 +1,10 @@
+# 1.0.0 (2022-03-24)
+
+
+### Features
+
+* added modules ([a2dd58f](https://github.com/thekodeark/terraform-aws-tfe-modules/commit/a2dd58f6ec30dbae5e39f3280fc4a95ad41e6f86))
+
 ## [1.3.11](https://github.com/thekodeark/terraform-aws-tonara-modules/compare/v1.3.10...v1.3.11) (2022-03-23)
 
 
