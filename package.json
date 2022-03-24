@@ -1,0 +1,28 @@
+{
+  "name": "terraform-aws-tfe-modules",
+  "version": "0.0.0-development",
+  "description": "",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.2.1",
+    "husky": "^7.0.4"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekodeark/terraform-aws-tfe-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thekodeark/terraform-aws-tfe-modules/issues"
+  },
+  "homepage": "https://github.com/thekodeark/terraform-aws-tfe-modules#readme"
+}

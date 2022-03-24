@@ -1,0 +1,8 @@
+terraform.tfstate
+*.tfstate
+*.lock.*
+*.dev.tf
+node_modules
+.husky
+.terraform
+.terraform.lock
